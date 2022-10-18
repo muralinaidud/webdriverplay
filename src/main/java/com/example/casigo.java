@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class casigo extends BaseClass {
 
-    public String casigoURL = "https://cptspins:frtg45@casigo.whgstage.com";
+    public String casigoURL = "https://";
 
     public static By account = By.xpath("//*[@class='navigation-link casigo-icon-account']");
 
