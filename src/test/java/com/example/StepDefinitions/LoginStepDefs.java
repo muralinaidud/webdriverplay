@@ -16,14 +16,14 @@ public class LoginStepDefs extends BaseClass {
         setDriver();
     }
 
-    @After
-    public void teardown(){
-       closeDriver();
-    }
+//    @After
+//    public void teardown(){
+//       closeDriver();
+//    }
 
     @Given("Launch Application")
     public void openApplication() {
-        navigateToHome();
+       // navigateToHome();
 
     }
     @Given("User opens login page")
