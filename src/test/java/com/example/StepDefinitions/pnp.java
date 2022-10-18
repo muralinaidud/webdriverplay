@@ -17,7 +17,7 @@ public class pnp {
 
         System.setProperty("webdriver.chrome.driver","C:\\Users\\User\\Downloads\\A\\chromedriver.exe");
         driver = new ChromeDriver();
-        String casigoURL = "https://cptspins:frtg45@casigo.whgstage.com";
+        String casigoURL = "https:";
         Cookie name1 = new Cookie("test_country", "FI");
         Cookie name2 = new Cookie("test_ip_address", "194.34.132.59");
 
